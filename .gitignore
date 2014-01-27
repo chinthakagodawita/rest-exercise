@@ -1,0 +1,13 @@
+# PHP
+vendor/
+
+# Sensitive information
+settings.php
+
+# Composer
+composer.phar
+
+# OS/Editor
+*.sublime*
+.DS_Store
+Thumbs.db

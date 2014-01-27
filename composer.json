@@ -1,0 +1,20 @@
+{
+    "name": "chinthakagodawita/rest-exercise",
+    "description": "A REST exercise in PHP.",
+    "require": {
+        "slim/slim": "2.*",
+        "jamesmoss/flywheel": "0.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "ChinthakaGodawita": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chinthaka Godawita",
+            "email": "chin.godawita@me.com"
+        }
+    ]
+}
